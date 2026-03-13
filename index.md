@@ -3,7 +3,7 @@ title: CineMat Generator
 description: Every aspect ratio mat you need, in one place. Built for editors, colorists, and anyone working in post.
 ---
 
-# CinemAt Generator
+# CineMat Generator
 
 **Every aspect ratio mat you need, in one place.**
 
