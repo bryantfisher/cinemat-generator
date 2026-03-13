@@ -1,4 +1,4 @@
-# CinemAt Generator
+# CineMat Generator
 
 **Every aspect ratio mat you need, in one place.**
 
